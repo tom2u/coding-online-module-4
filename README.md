@@ -18,3 +18,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [4.3.9/taskinator](https://tom2u.github.io/coding-online-module-4/4.3.9/taskinator)  
 [4.3.10/taskinator](https://tom2u.github.io/coding-online-module-4/4.3.10/taskinator)  
 [4.4.4/taskinator](https://tom2u.github.io/coding-online-module-4/4.4.4/taskinator)  
+[4.4.5/taskinator](https://tom2u.github.io/coding-online-module-4/4.4.5/taskinator)  
